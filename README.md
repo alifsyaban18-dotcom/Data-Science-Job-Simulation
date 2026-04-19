@@ -1,6 +1,5 @@
 # BCG X Data Science Virtual Experience - Customer Churn Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
